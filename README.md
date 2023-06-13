@@ -1,2 +1,2 @@
 # K-Mean
-Model of Machine Learning
+Model of Machine Learning.
